@@ -36,8 +36,19 @@ A reusable reverse-convolution operator for image restoration, with an end-to-en
 
 [**Code →**](https://github.com/cszn/ConverseNet) · [**Paper →**](https://arxiv.org/abs/2508.09824)
 
-## Tools I work with
+---
 
-![Python, Swift, C/C++, PyTorch, SwiftUI, UIKit, Supabase, Git](assets/stack.svg)
+### 04 · Generative AI Privacy & Adversarial Optimization
+
+A hierarchical adversarial-optimization pipeline for protecting facial privacy against customized text-to-image models. I implemented reward-guided optimization and evaluation workflows to assess robustness under malicious model fine-tuning.
+
+**Generative AI · Adversarial Optimization · Privacy · Robustness Evaluation**
+
+[**Read the Anti-aesthetics paper →**](https://arxiv.org/abs/2504.12129)
+
+## Skills
+
+LLM Interpretability · LLM Tool Calling · Model Evaluation · Machine Learning  
+Data Pipelines · Data Structures & Algorithms · iOS Development · API Integration
 
 <sub>Outside of code: travel, languages, and cats.</sub>
