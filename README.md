@@ -1,6 +1,6 @@
 ![Shiqi (Stella) Liu — Stanford EE · Software + Applied AI](assets/banner.svg)
 
-[Email](mailto:shiqiliu@stanford.edu) · [LinkedIn](https://www.linkedin.com/in/shiqi-liu-stella) · [Interactive Calendar Demo](https://stella-67.github.io/done-web-demo/) · [LLM Interpretability Blog](https://transcoder-reasoning.liushiqiiiiii.chatgpt.site/)
+[Email](mailto:shiqiliu@stanford.edu) · [LinkedIn](https://www.linkedin.com/in/shiqi-liu-stella) · [Interactive Calendar Demo](https://stella-67.github.io/done-web-demo/) · [LLM Interpretability Blog](https://transcoder-reasoning.liushiqiiiiii.chatgpt.site/) · [ConverseNet](https://github.com/cszn/ConverseNet)
 
 I'm a **master's student in Electrical Engineering at Stanford**. My work spans LLM interpretability, reusable image-restoration code, and an iOS app for recording and reflecting on everyday life.
 
