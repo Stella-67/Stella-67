@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Shiqi (Stella) Liu</title>
+  <desc id="desc">Stanford Electrical Engineering. Software and Applied AI. A cream and violet banner with a geometric network illustration.</desc>
+  <rect x="1" y="1" width="1198" height="258" rx="18" fill="#f7f5fc" stroke="#e8e2f1"/>
+  <rect x="44" y="46" width="4" height="167" rx="2" fill="#8870ba"/>
+  <text x="70" y="71" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#736388">SOFTWARE · APPLIED AI</text>
+  <text x="67" y="139" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#252133">Shiqi (Stella) Liu</text>
+  <text x="70" y="178" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#655c70">Stanford University · MS in Electrical Engineering</text>
+  <text x="70" y="213" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#8b7c96">Models, systems, and things you can try.</text>
+  <g transform="translate(970 128)">
+    <circle r="94" fill="none" stroke="#e7deee"/>
+    <circle r="68" fill="none" stroke="#e7deee" stroke-dasharray="3 7"/>
+    <path d="M -82 0 L -35 -62 L 35 -48 L 79 17 L 27 67 L -41 54 Z M -35 -62 L 27 67 M -82 0 L 79 17 M -41 54 L 35 -48" fill="none" stroke="#b49fc9" stroke-width="1.7"/>
+    <path d="M -82 0 L -6 0 L 35 -48 M -41 54 L -6 0 L 27 67" fill="none" stroke="#c9bcdb" stroke-width="1.7"/>
+    <circle cx="-82" cy="0" r="7" fill="#9c89c0"/>
+    <circle cx="-35" cy="-62" r="8" fill="#c4aed5"/>
+    <circle cx="35" cy="-48" r="7" fill="#c9a5b8"/>
+    <circle cx="79" cy="17" r="9" fill="#d7bdcc"/>
+    <circle cx="27" cy="67" r="7" fill="#a590c8"/>
+    <circle cx="-41" cy="54" r="9" fill="#d1c5e5"/>
+    <circle cx="-6" cy="0" r="12" fill="#8266b4"/>
+    <circle cx="-6" cy="0" r="5" fill="#fff" opacity=".9"/>
+  </g>
+</svg>
